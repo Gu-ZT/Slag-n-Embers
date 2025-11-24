@@ -899,7 +899,7 @@
     "tooltip.slag.modular_tool_crafting_hammer": "使用锻造等级≥'%s'的软锤/锤敲击蓝图组合！",
     "tooltip.slag.modular_tool_crafting_hammer_weak": "使用石头/木质物品或软锤/锤敲击蓝图组合！",
     "tooltip.slag.modular_tool_crafting_table": "必须看向工作台才能组合预定工具！！！",
-    "tooltip.slag.modular_tool_insert_stick": "插入%s根木棍%s！",
+    "tooltip.slag.modular_tool_insert_stick": "插入%s根木棍！",
     "tooltip.slag.modular_tool_invalid": "无效工具！",
     "tooltip.slag.modular_tool_smithing_table": "必须看向锻造台才能组合预定工具！！！",
     "tooltip.slag.modular_tool_too_few_stick": "木棍数量不足！",
